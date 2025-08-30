@@ -1,5 +1,5 @@
 # Guia de Pasos y Casos Git
-_(Los casos estan dentro de la ruta : Casos_Git/src/pack_casos)_
+_IMPORTANTE => (Los casos estan dentro de la ruta : Casos_Git/src/pack_casos)_
 ## Primeros Pasos
 
 ![Primera foto Creando el repo y clonacion](/imagenes/Captura%20de%20pantalla%202025-08-30%20081941.png)
